@@ -42,5 +42,5 @@ My solutions to Flexbox Froggy (https://flexboxfroggy.com/)
 `justify-content: flex-end;`
 
 ## Level 12:
-`flex-direction: column-reverse;
+`flex-direction: column-reverse;\
 justify-content: space-between;`
