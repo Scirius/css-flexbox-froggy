@@ -2,9 +2,6 @@
 My solutions to Flexbox Froggy (https://flexboxfroggy.com/)
 
 ## Level 1:
-`grid-column-start: 3;`
-
-## Level 1:
 `justify-content: flex-end;`
 
 ## Level 2:
