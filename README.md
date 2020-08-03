@@ -44,3 +44,51 @@ My solutions to Flexbox Froggy (https://flexboxfroggy.com/)
 ## Level 12:
 `flex-direction: column-reverse;`\
 `justify-content: space-between;`
+
+## Level 13:
+`flex-direction: row-reverse;`\
+`justify-content: center;`\
+`align-items: flex-end;`
+
+## Level 14:
+`order: 1;`\
+or\
+`order: 3;`
+
+## Level 15:
+`order: -1;`\
+or\
+`order: -3;`
+
+## Level 16:
+`align-self: flex-end;`
+
+## Level 17:
+`align-self: flex-end;`\
+`order:1;`
+
+## Level 18:
+`flex-wrap: wrap;`
+
+## Level 19:
+`flex-direction: column;`\
+`flex-wrap: wrap;`
+
+## Level 20:
+`flex-flow: column wrap;`
+
+## Level 21:
+`align-content: flex-start;`
+
+## Level 22:
+`align-content: flex-end;`
+
+## Level 23:
+`flex-direction: column-reverse;`\
+`align-content: center;`
+
+## Level 24:
+`flex-direction: column-reverse;`\
+`flex-wrap: wrap-reverse;`\
+`justify-content:center;`\
+`align-content:space-between;`
